@@ -126,6 +126,6 @@ EduTutor AI interacts with the Hugging Face API.
 - Deploy on **Hugging Face Spaces** for 24/7 access.  
 - Fine-tune the model with **academic datasets**.
 
-## Live video link: [video link](#)
+## Live video link: [video link](https://drive.google.com/file/d/19xiBC9iynMzV0T3AGWHku7pdO4kNQXvW/view?usp=drivesdk)
 
 
